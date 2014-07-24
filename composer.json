@@ -6,8 +6,8 @@
     "license": "MIT",
     
     "require": {
-      "frameworks/jquery": "dev-master"
-    },
+    	"frameworks/bootstrap": "dev-master"
+	},
     
     "suggest": {
         "fortawesome/font-awesome": "4.1.0 - Allows more advanced features",
