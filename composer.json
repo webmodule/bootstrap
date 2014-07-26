@@ -6,7 +6,7 @@
     "license": "MIT",
     
     "require": {
-    	"frameworks/bootstrap": "dev-master"
+    	"frameworks/bootstrap": "3.1.*"
 	},
     
     "suggest": {
