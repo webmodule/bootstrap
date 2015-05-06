@@ -8,7 +8,7 @@
 	],
 	"license" : "MIT",
 	"require" : {
-		"webmodules/jquery" : ">=1.3.0"
+		"webmodules/jquery" : ">=2.1.2"
 	},
 	"suggest" : {
 		"fortawesome/font-awesome" : "4.1.0 - Allows more advanced features",
