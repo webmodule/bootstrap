@@ -1,7 +1,7 @@
 {
 	"name" : "webmodules/bootstrap",
 	"type" : "library",
-	"description" : "Simple Bootstrap Fork Compatible with SPAMJS Specs",
+	"description" : "Simply Bootstrap Fork with module.json",
 	"keywords" : [
 		"rudra",
 		"API"
@@ -15,3 +15,4 @@
 		"kartik-v/bootstrap-star-rating" : "dev-master - Allows more advanced features"
 	}
 }
+

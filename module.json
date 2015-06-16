@@ -1,0 +1,15 @@
+{
+	"webmodules/bootstrap/css/plain": {
+		"css": ["css/bootstrap.css"]
+	},
+	"webmodules/bootstrap/css": {
+		"css": ["css/bootstrap-theme.css"],
+		"on" : ["webmodules/bootstrap/css/plain"]
+	},
+	"webmodules/bootstrap/js": {
+		"js": ["js/bootstrap.js"],
+	},
+	"webmodules/bootstrap": {
+		"on": ["webmodules/bootstrap/css","webmodules/bootstrap/js"],
+	}
+}
