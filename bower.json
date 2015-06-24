@@ -16,6 +16,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "webmodules-jquery": "#>=2.1.2",
+    "webmodules-jquery": ">=2.1.5"
   }
 }
