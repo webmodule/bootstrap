@@ -1,4 +1,5 @@
 {
+	"name" : "webmodules/bootstrap",
 	"webmodules/bootstrap/css/plain": {
 		"css": ["css/bootstrap.css"]
 	},
