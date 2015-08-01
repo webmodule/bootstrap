@@ -4,12 +4,12 @@
 	},
 	"webmodules/bootstrap/css": {
 		"css": ["css/bootstrap-theme.css"],
-		"on" : ["webmodules/bootstrap/css/plain"]
+		"on": ["webmodules/bootstrap/css/plain"]
 	},
 	"webmodules/bootstrap/js": {
-		"js": ["js/bootstrap.js"],
+		"js": ["js/bootstrap.js"]
 	},
 	"webmodules/bootstrap": {
-		"on": ["webmodules/bootstrap/css","webmodules/bootstrap/js"],
+		"on": ["webmodules/bootstrap/css", "webmodules/bootstrap/js"]
 	}
 }
